@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamSting
-- 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Django
+- 👀 I’m interested in ...DevOps
+- 🌱 I’m currently learning ...Apex
+- 💞️ I’m looking to collaborate on ...React
 - 📫 How to reach me ...samsting0482@gmail.com
 
 <!---
