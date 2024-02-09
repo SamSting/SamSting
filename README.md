@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamSting
 - 👀 I’m interested in ...DevOps
-- 🌱 I’m currently learning ...Apex
+- 🌱 I’m currently learning ...Docker
 - 💞️ I’m looking to collaborate on ...React
 - 📫 How to reach me ...samsting0482@gmail.com
 
